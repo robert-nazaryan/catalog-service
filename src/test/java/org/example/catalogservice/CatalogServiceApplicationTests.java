@@ -1,9 +1,9 @@
 package org.example.catalogservice;
 
+import org.example.catalogservice.domain.Book;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.polarbookshop.catalogservice.domain.Book;
 import org.junit.jupiter.api.Test;
 
 import org.springframework.beans.factory.annotation.Autowired;
